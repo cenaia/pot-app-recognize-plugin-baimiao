@@ -1,5 +1,5 @@
 # Pot-App [白描 OCR](https://baimiao.uzero.cn/) 文字识别插件 (需要登录自己的白描账号)
-
+2026.2.27尝试修改
 ## 使用方法
 
 ### 安装 Pot
